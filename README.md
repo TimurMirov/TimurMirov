@@ -12,6 +12,6 @@
 
 #### Мой стек:
 
-| Python | PyCharm | Git | Pytest | Requests | Docker | GitLab CI | PostgreSQL | Allure |
-|--------|---------|-----|--------|----------|--------|-----------|------------|--------|
-| <img height="50" src="media/python.png" width="50"/> | <img height="50" src="media/pycharm.png" width="50"/> | <img height="60" src="media/git.png" width="60"/> | <img height="55" src="media/pytest.png" width="55"/> | <img height="50" src="media/requests.png" width="50"/> | <img height="80" src="media/docker.png" width="80"/> | <img height="50" src="media/gitlab.png" width="50"/> | <img height="50" src="media/postgre.png" width="50"/> | <img height="55" src="media/allurereport.png" width="55"/> |
+| Python | PyCharm | Git | Pytest | Playwright | Requests | Docker | GitLab CI | PostgreSQL | Allure |
+|--------|---------|-----|--------|-----------|----------|--------|-----------|------------|--------|
+| <img height="50" src="media/python.png" width="50"/> | <img height="50" src="media/pycharm.png" width="50"/> | <img height="60" src="media/git.png" width="60"/> | <img height="55" src="media/pytest.png" width="55"/> | <img height="55" src="media/playwright.svg" width="55"/> | <img height="50" src="media/requests.png" width="50"/> | <img height="80" src="media/docker.png" width="80"/> | <img height="50" src="media/gitlab.png" width="50"/> | <img height="50" src="media/postgre.png" width="50"/> | <img height="55" src="media/allurereport.png" width="55"/> |
